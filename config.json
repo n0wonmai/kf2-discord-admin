@@ -1,0 +1,12 @@
+{
+    "host_ip": "127.0.0.1",
+    "port": "8080",
+    "username": "admin",
+    "password": "123",
+    "botname": "KFBot",
+    "bot_token": "",
+    "steam_token": "",
+    "avatar_url": "",
+    "webhook_url": "",
+    "poster_url": ""
+}
